@@ -1,0 +1,13 @@
+article{
+    display: flex;
+    align-items: flex-start;
+    background-color: wheat;
+    padding: 20px;
+    border-radius: 3px;
+    max-width: 500px;
+}
+
+img {
+    width: 150px;
+    margin-right: 20px;
+}

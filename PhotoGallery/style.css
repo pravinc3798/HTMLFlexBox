@@ -1,0 +1,11 @@
+.images {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.images img {
+    width : 25%;
+    border : 5px solid black;
+    margin : 10px;
+    box-shadow: 3px 3px 8px 0px rgba(0,0,0,0.3);
+}
